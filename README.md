@@ -31,12 +31,5 @@ I specialize in **modern JavaScript frameworks**, **React**, and **AI-powered au
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,python,docker,git,linux,postgresql,mysql,nginx" />
 </p>
-
 ---
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhalil11x&show_icons=true&theme=dark)
-
----
-
 ✨ *Always learning, always building.*
