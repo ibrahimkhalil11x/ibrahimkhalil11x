@@ -29,7 +29,7 @@ I specialize in **modern JavaScript frameworks**, **React**, and **AI-powered au
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,python,docker,git,linux,postgresql,mysql,nginx" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,python,docker,git,linux,postgresql,mysql" />
 </p>
 ---
 ✨ *Always learning, always building.*
