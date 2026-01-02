@@ -17,7 +17,7 @@ I specialize in **modern JavaScript frameworks**, **React**, and **AI-powered au
 
 ### 🤝 Connect with me
 <p>
-  <a href="[https://www.linkedin.com/in/ibrahim-khalil-903b522a7/](https://www.linkedin.com/in/ibrahim-khalil-903b522a7/)">
+  <a href="https://www.linkedin.com/in/ibrahim-khalil-903b522a7/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:khalil.ibrahim.dev@gmail.com">
